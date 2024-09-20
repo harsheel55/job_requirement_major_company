@@ -44,5 +44,11 @@ Areas of Focus
 Learning Resources
 * Online Courses: Platforms like Coursera, edX, and Udacity offer great courses on these topics.
 * Bootcamps: Intensive coding bootcamps can provide hands-on experience quickly.
+
+  ![image](https://github.com/user-attachments/assets/fa517b09-a6eb-4ac7-be9e-8189ca2f0172)
+
+  ![image](https://github.com/user-attachments/assets/16d1ba81-a82a-419c-a5a9-ee2ce928450d)
+
+
 # Google
   
