@@ -5,8 +5,8 @@
 Key Technologies and Skills:<br />
 Programming Languages: Proficiency in languages such as:
 
-*C#
--Java
+* C#
+- Java
 C++
 Python
 JavaScript
