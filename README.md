@@ -3,7 +3,7 @@
 # microsoft
 
 Key Technologies and Skills:<br />
-Programming Languages: Proficiency in languages such as:
+## Programming Languages: Proficiency in languages such as:
 
 * C#
 - Java
@@ -25,7 +25,7 @@ Programming Languages: Proficiency in languages such as:
 * Mobile Development: Experience in developing apps for iOS and Android.
 
 
-* Programming Languages
+## Programming Languages
 * Python: Continues to be favored for data science, machine learning, web development, and automation.
 * JavaScript: Essential for web development; frameworks like React, Angular, and Vue.js are in high demand.
 * Go: Increasingly popular for cloud-native applications and microservices due to its efficiency and simplicity.
