@@ -2,7 +2,7 @@
 
 # microsoft
 
-Key Technologies and Skills:
+Key Technologies and Skills:<br />
 Programming Languages: Proficiency in languages such as:
 
 C#
