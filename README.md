@@ -7,9 +7,9 @@ Programming Languages: Proficiency in languages such as:
 
 * C#
 - Java
-C++
-Python
-JavaScript
+* C++
+* Python
+* JavaScript
 Cloud Computing: Familiarity with Microsoft Azure and cloud-based services.
 
 Web Development: Skills in web technologies including HTML, CSS, and frameworks like React or Angular.
